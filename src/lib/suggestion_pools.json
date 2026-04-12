@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "description": "Morgan Life OS suggestion pools. Replace these samples with your real content.",
+  "suggestions": [
+    {
+      "id": "tinywin_water_salt",
+      "anchorType": "tinyWin",
+      "level": 1,
+      "text": "Drink a full glass of water with salt or electrolytes.",
+      "energyCost": "low",
+      "typicalDurationMinutes": 2,
+      "recommendedFrequencyDays": 1,
+      "tags": ["health", "hydration", "pots"]
+    },
+    {
+      "id": "tinywin_breathe",
+      "anchorType": "tinyWin",
+      "level": 1,
+      "text": "Breathe slowly for 30 seconds. In for 4, out for 6.",
+      "energyCost": "low",
+      "typicalDurationMinutes": 1,
+      "recommendedFrequencyDays": 1,
+      "tags": ["health", "nervous-system", "pots"]
+    },
+    {
+      "id": "tinywin_supine_rest",
+      "anchorType": "tinyWin",
+      "level": 1,
+      "text": "Lie down for 10 minutes to let your blood pressure recover.",
+      "energyCost": "low",
+      "typicalDurationMinutes": 10,
+      "recommendedFrequencyDays": 1,
+      "tags": ["health", "pots", "rest"]
+    },
+    {
+      "id": "tinywin_connect_eli",
+      "anchorType": "tinyWin",
+      "level": 3,
+      "text": "Text or say one genuine thing to Eli today.",
+      "energyCost": "low",
+      "typicalDurationMinutes": 2,
+      "recommendedFrequencyDays": 2,
+      "tags": ["connection", "eli"]
+    },
+    {
+      "id": "tinywin_connect_dom",
+      "anchorType": "tinyWin",
+      "level": 3,
+      "text": "Check in with Dom — even just a 'how's your day going?'",
+      "energyCost": "low",
+      "typicalDurationMinutes": 3,
+      "recommendedFrequencyDays": 2,
+      "tags": ["connection", "dom"]
+    },
+    {
+      "id": "tinywin_job_one_task",
+      "anchorType": "tinyWin",
+      "level": 2,
+      "text": "Do one small job-search action: update a line on your resume, send a follow-up, or note one company.",
+      "energyCost": "medium",
+      "typicalDurationMinutes": 10,
+      "recommendedFrequencyDays": 3,
+      "tags": ["job", "safety", "career"]
+    },
+    {
+      "id": "admin_dishes",
+      "anchorType": "adminHouse",
+      "level": 2,
+      "text": "Do the dishes or start the dishwasher.",
+      "energyCost": "low",
+      "typicalDurationMinutes": 5,
+      "recommendedFrequencyDays": 2,
+      "tags": ["home", "safety", "minimum-viable"]
+    },
+    {
+      "id": "admin_trash",
+      "anchorType": "adminHouse",
+      "level": 2,
+      "text": "Take out the trash or recycle bin if it's full.",
+      "energyCost": "low",
+      "typicalDurationMinutes": 3,
+      "recommendedFrequencyDays": 7,
+      "tags": ["home", "safety"]
+    },
+    {
+      "id": "admin_one_email",
+      "anchorType": "adminHouse",
+      "level": 2,
+      "text": "Clear one email or respond to one message that's been sitting.",
+      "energyCost": "medium",
+      "typicalDurationMinutes": 5,
+      "recommendedFrequencyDays": 3,
+      "tags": ["admin", "safety", "email"]
+    },
+    {
+      "id": "admin_pill_check",
+      "anchorType": "adminHouse",
+      "level": 1,
+      "text": "Check that tomorrow's pills/supplements are ready.",
+      "energyCost": "low",
+      "typicalDurationMinutes": 2,
+      "recommendedFrequencyDays": 1,
+      "tags": ["health", "supplements", "admin"]
+    },
+    {
+      "id": "admin_bills_glance",
+      "anchorType": "adminHouse",
+      "level": 2,
+      "text": "Open your bank app or email and glance at any pending bills.",
+      "energyCost": "medium",
+      "typicalDurationMinutes": 5,
+      "recommendedFrequencyDays": 7,
+      "tags": ["admin", "finances", "safety"]
+    },
+    {
+      "id": "tomorrow_clothes",
+      "anchorType": "tomorrowHelp",
+      "level": 2,
+      "text": "Set out tomorrow's clothes or at least decide what you're wearing.",
+      "energyCost": "low",
+      "typicalDurationMinutes": 2,
+      "recommendedFrequencyDays": 1,
+      "tags": ["tomorrow", "safety", "prep"]
+    },
+    {
+      "id": "tomorrow_water_by_bed",
+      "anchorType": "tomorrowHelp",
+      "level": 1,
+      "text": "Put a glass of water with electrolytes on your bedside table for the morning.",
+      "energyCost": "low",
+      "typicalDurationMinutes": 2,
+      "recommendedFrequencyDays": 1,
+      "tags": ["health", "pots", "tomorrow", "prep"]
+    },
+    {
+      "id": "tomorrow_one_intention",
+      "anchorType": "tomorrowHelp",
+      "level": 2,
+      "text": "Write down one small intention for tomorrow — not a to-do list, just one thing.",
+      "energyCost": "low",
+      "typicalDurationMinutes": 3,
+      "recommendedFrequencyDays": 1,
+      "tags": ["tomorrow", "planning", "mindset"]
+    },
+    {
+      "id": "tomorrow_phone_charged",
+      "anchorType": "tomorrowHelp",
+      "level": 2,
+      "text": "Plug in your phone and anything else that needs charging overnight.",
+      "energyCost": "low",
+      "typicalDurationMinutes": 1,
+      "recommendedFrequencyDays": 1,
+      "tags": ["tomorrow", "practical", "prep"]
+    },
+    {
+      "id": "tomorrow_tidy_one_surface",
+      "anchorType": "tomorrowHelp",
+      "level": 2,
+      "text": "Clear one surface — desk, nightstand, or kitchen counter. Future You will notice.",
+      "energyCost": "low",
+      "typicalDurationMinutes": 5,
+      "recommendedFrequencyDays": 2,
+      "tags": ["home", "tomorrow", "safety"]
+    }
+  ]
+}
